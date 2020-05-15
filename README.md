@@ -1,4 +1,3 @@
 ## Swift features :
 
 * KeyPath
-*
